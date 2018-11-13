@@ -1,0 +1,12 @@
+http://162.243.44.238/
+
+/movies
+/procedure/all
+/shows
+/shows/releases
+/shows/latest
+/shows/letters/a
+/shows/letters/a/2
+/shows/3719/episodes
+/shows/3719/episodes/639308/sources
+/translate?original=http%3A%2F%2Fwww.primewire.ag%2Ftv-2782593-This-Is-Us%2Fseason-2-episode-10&foreign=%2Fgohere.php%3Ftitle%3DThis%2BIs%2BUs%26url%3DaHR0cHM6Ly9lc3RyZWFtLnRvLzNob3N2aDN0ZnFmdy5odG1s%26domain%3DZXN0cmVhbS50bw%3D%3D%26loggedin%3D0

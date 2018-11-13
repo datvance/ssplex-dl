@@ -1,0 +1,16 @@
+{
+  "storage": {
+    "downloads": "/some/path",
+    "tracking": "storage/"
+  },
+  "shows": [
+    {
+      "name": "The Expanse",
+      "ssplexid": 14437
+    },
+    {
+      "name": "Heartland",
+      "ssplexid": 3719
+    }
+  ]
+}

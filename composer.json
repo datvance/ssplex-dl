@@ -1,0 +1,28 @@
+{
+    "name": "datvance/ssplex-dl",
+    "description": "download videos using ssplex api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "dv",
+            "email": "datvance@gmail.com"
+        }
+    ],
+    "require": {
+        "kriswallsmith/buzz": "^0.15.2",
+        "chellem/youtube-downloader": "^1.1"
+    },
+    "scripts":{
+        "post-update-cmd":[
+            "Youtubedl\\Installation::postUpdate"
+        ],
+        "post-install-cmd":[
+            "Youtubedl\\Installation::postInstall"
+        ]
+    },
+    "autoload": {
+        "psr-4": {
+            "datvance\\": "src/"
+        }
+    }
+}
